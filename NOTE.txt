@@ -1,0 +1,18 @@
+Requirements :
+	* Run XAMPP Local Server (PHP version > 7.4.3)
+	* Add Kirulu-w1809760-2019324 project in to htdocs folder
+	* Import iit_uow.sql database to your local server
+
+
+
+Peroject version compatible : 
+	* Framework : CodeIgniter 3
+	* PHP Version : 7.4.3
+	* Database : MYSQL
+	* Local Server : XAMPP
+
+
+
+Start Application : 
+	* Web Path : http://localhost/Kirulu-w1809760-2019324/index.php
+	
